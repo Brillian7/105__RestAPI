@@ -1,7 +1,7 @@
 package com.example.consumerestapi.repository
 
 import com.example.consumerestapi.model.Kontak
-import com.example.consumerestapi.network.KontakService
+import com.example.consumerestapi.service_api.KontakService
 import java.io.IOException
 
 interface KontakRepository {
