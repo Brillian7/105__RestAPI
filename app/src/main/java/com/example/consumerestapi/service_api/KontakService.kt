@@ -1,4 +1,4 @@
-package com.example.consumerestapi.network
+package com.example.consumerestapi.service_api
 
 import com.example.consumerestapi.model.Kontak
 import retrofit2.Response
